@@ -6,8 +6,9 @@ verify_ssl = false
 [dev-packages]
 
 [packages]
-flask = "*"
 python-dotenv = "*"
+wfastcgi = "*"
+flask = "*"
 
 [requires]
 python_version = "3.7"
